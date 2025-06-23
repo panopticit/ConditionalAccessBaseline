@@ -69,7 +69,7 @@
                                                        ],
                                      "excludeGroups@odata.type":  "#Collection(String)",
                                      "excludeGroups":  [
-                                                        
+                                                          
                                                        ],
                                      "includeRoles@odata.type":  "#Collection(String)",
                                      "includeRoles":  [
@@ -90,7 +90,7 @@
                                                               ],
                                          "excludeLocations@odata.type":  "#Collection(String)",
                                          "excludeLocations":  [
-                                                                 
+                                                                  
                                                               ]
                                      }
                    },
