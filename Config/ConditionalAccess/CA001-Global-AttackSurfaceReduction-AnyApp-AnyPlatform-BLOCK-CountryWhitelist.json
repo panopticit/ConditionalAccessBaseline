@@ -90,7 +90,7 @@
                                                               ],
                                          "excludeLocations@odata.type":  "#Collection(String)",
                                          "excludeLocations":  [
-                                                                  "ALLOWED COUNTRIES"
+                                                                  
                                                               ]
                                      }
                    },
